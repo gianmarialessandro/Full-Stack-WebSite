@@ -1,4 +1,14 @@
-# FrontEnd
+# ng
+
+* ng serve -o(for new tab)
+
+* ng generate component listing-detail-page
+
+
+
+
+
+## FrontEnd
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.6.
 
